@@ -1,0 +1,23 @@
+{
+  "author": "Rafael Alves Sa <rafael@rafael.me.uk>",
+  "bugs": {
+    "url": "https://github.com/rafaelalvessa/www.rafael.me.uk/issues"
+  },
+  "description": "Personal website of Rafael Alves Sa",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "homepage": "https://www.rafael.me.uk",
+  "license": "GPL-3.0",
+  "name": "www.rafael.me.uk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelalvessa/www.rafael.me.uk.git"
+  },
+  "scripts": {
+    "build": "npm run clean && eleventy",
+    "clean": "rm -fr docs",
+    "start": "npm run clean && eleventy --serve"
+  },
+  "version": "0.1.0"
+}

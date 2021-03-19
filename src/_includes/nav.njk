@@ -1,0 +1,9 @@
+<nav>
+  <ul>
+    {% for item in navItems -%}
+      <li>
+        <a{% if item.path === "/" + page.fileSlug %} class="active"{% endif %} href="{{ item.path }}">{{ item.title }}</a>
+      </li>
+    {%- endfor %}
+  </ul>
+</nav>

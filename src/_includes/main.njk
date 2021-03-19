@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="/assets/css/main.css" rel="stylesheet">
+    <link href="/assets/images/icon.png" rel="icon" sizes="192x192" type="image/png">
+    <link href="/favicon.ico" rel="icon">
+    <meta charset="utf-8">
+    <meta content="initial-scale=1.0, width=device-width" name="viewport">
+    <meta content="light dark" name="color-scheme">
+    <meta content="black" name="theme-color">
+    <meta content="Rafael Alves Sa" name="author">
+    <meta content="Personal website of Rafael Alves Sa" name="description">
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">Rafael Alves Sa</a>
+      </h1>
+      {% include "nav.njk" %}
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      {% block footer %}
+        All content is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+        Source code available on <a href="https://github.com/rafaelalvessa/www.rafael.me.uk">GitHub</a>.
+      {% endblock %}
+    </footer>
+  </body>
+</html>

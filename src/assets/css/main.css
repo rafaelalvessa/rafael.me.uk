@@ -1,0 +1,123 @@
+:root {
+  --primary-colour: black;
+  --secondary-colour: white;
+}
+
+a {
+  color: var(--primary-colour);
+}
+
+code {
+  overflow-wrap: break-word;
+}
+
+footer {
+  border-top: 1px solid var(--primary-colour);
+  font-size: smaller;
+  margin-top: 32px;
+  padding-top: 16px;
+}
+
+header a {
+  text-decoration: none;
+}
+
+header h1 a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  border-bottom: 1px solid var(--primary-colour);
+  border-top: 1px solid var(--primary-colour);
+  font-size: smaller;
+  margin-bottom: 32px;
+  overflow-y: auto;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+nav a {
+  display: inline-block;
+  font-weight: bold;
+  padding: 8px;
+}
+
+nav a:hover,
+nav a.active {
+  border-bottom: 2px solid var(--primary-colour);
+  padding-bottom: 6px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 8px;
+}
+
+nav ul {
+  display: inline;
+  list-style-type: none;
+  padding: 0;
+}
+
+@media print {
+  a {
+    text-decoration: none;
+  }
+
+  body {
+    font-family: sans-serif;
+    font-size: smaller;
+    margin: 0;
+  }
+
+  code {
+    font-family: monospace;
+  }
+
+  footer {
+    margin-bottom: 0;
+  }
+
+  li,
+  p {
+    font-family: serif;
+  }
+
+  nav {
+    display: none;
+  }
+}
+
+@media screen {
+  body {
+    font-family: system-ui, "Segoe UI", "SF Pro", Ubuntu, sans-serif;
+    margin: auto;
+    max-width: 720px;
+  }
+
+  code {
+    font-family: Consolas, "SF Mono", "Ubuntu Mono", monospace;
+  }
+
+  footer {
+    margin-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  body {
+    margin: auto 8px;
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --primary-colour: white;
+    --secondary-colour: black;
+  }
+
+  body {
+    background-color: var(--secondary-colour);
+    color: var(--primary-colour);
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "readingLog": {
+    "Currently Reading": [
+      {
+        "author": "Elliot B. Koffman; Paul A. T. Wolfgang",
+        "isbn": "9780471692645",
+        "startDate": "2020-10-05",
+        "title": "Objects, Abstraction, Data Structures and Design Using Java Version 5.0",
+        "url": "https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=2200&itemId=0471692646"
+      },
+      {
+        "author": "J.K. Rowling",
+        "isbn": "9781781106464",
+        "startDate": "2020-06-29",
+        "title": "Harry Potter: The Complete Collection",
+        "url": "https://uk.shop.pottermore.com/collections/ebook/products/harry_potter_the_complete_collection_17_9781781106464"
+      }
+    ],
+    "2020": [
+      {
+        "author": "J.K. Rowling",
+        "finishDate": "2020-07-10",
+        "startDate": "2020-05-26",
+        "title": "The Ickabog",
+        "url": "https://www.theickabog.com/the-story/"
+      },
+      {
+        "author": "Marieke Eyskoot",
+        "finishDate": "2020-05-04",
+        "isbn": "9789063694920",
+        "startDate": "2019-11-15",
+        "title": "This is a Good Guide - for a sustainable lifestyle",
+        "url": "https://www.mariekeeyskoot.nl/this-is-a-good-guide/"
+      }
+    ],
+    "2019": [
+      {
+        "author": "Gene Kim; Kevin Behr; George Spafford",
+        "finishDate": "2019-12-27",
+        "isbn": "9781942788300",
+        "startDate": "2019-11-25",
+        "title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+        "url": "https://itrevolution.com/the-phoenix-project/"
+      },
+      {
+        "author": "Margaret Atwood",
+        "finishDate": "2019-11-12",
+        "isbn": "9781784873189",
+        "startDate": "2019-10-16",
+        "title": "The Handmaid's Tale",
+        "url": "https://margaretatwood.ca/shop/#book_978"
+      },
+      {
+        "author": "Andy Lester",
+        "finishDate": "2019-10-15",
+        "isbn": "9781934356265",
+        "startDate": "2019-09-25",
+        "title": "Land the Tech Job You Love",
+        "url": "https://www.pragprog.com/titles/algh/land-the-tech-job-you-love/"
+      },
+      {
+        "author": "Daniel Stenberg",
+        "finishDate": "2019-09-24",
+        "isbn": "9789163965012",
+        "startDate": "2019-08-27",
+        "title": "Everything curl",
+        "url": "https://curl.se/book.html"
+      },
+      {
+        "author": "Home Office",
+        "finishDate": "2019-08-26",
+        "isbn": "9780113413409",
+        "startDate": "2019-07-31",
+        "title": "Life in the United Kingdom: A Guide for New Residents",
+        "url": "https://www.officiallifeintheuk.co.uk/official-guide-new-residents-book"
+      },
+      {
+        "author": "Jason Fried; David Heinemeier Hansson",
+        "finishDate": "2019-08-08",
+        "isbn": "9780008323455",
+        "startDate": "2019-07-29",
+        "title": "It Doesn't Have to Be Crazy at Work",
+        "url": "https://basecamp.com/books/calm"
+      },
+      {
+        "author": "Greg Jackson",
+        "finishDate": "2019-07-26",
+        "isbn": "9781783782017",
+        "startDate": "2019-07-11",
+        "title": "Prodigals: Stories",
+        "url": "https://us.macmillan.com/books/9781250118059"
+      },
+      {
+        "author": "Shoshana Zuboff",
+        "finishDate": "2019-07-11",
+        "isbn": "9781782832744",
+        "startDate": "2019-04-23",
+        "title": "The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power",
+        "url": "https://shoshanazuboff.com/book/about/"
+      },
+      {
+        "author": "Edward Bellamy",
+        "finishDate": "2019-04-22",
+        "startDate": "2019-03-17",
+        "title": "Looking Backward: 2000-1887",
+        "url": "https://www.gutenberg.org/ebooks/25439"
+      },
+      {
+        "author": "Jim Blandy",
+        "finishDate": "2019-03-31",
+        "isbn": "9781491927298",
+        "startDate": "2019-03-22",
+        "title": "Why Rust?",
+        "url": "https://www.oreilly.com/library/view/why-rust/9781492048589/"
+      },
+      {
+        "author": "Joanna Cannon",
+        "finishDate": "2019-03-07",
+        "isbn": "9780008132187",
+        "startDate": "2018-11-30",
+        "title": "The Trouble with Goats and Sheep",
+        "url": "https://www.boroughpress.co.uk/products/the-trouble-with-goats-and-sheep-9780008132170/"
+      },
+      {
+        "author": "Steve Klabnik; Carol Nichols",
+        "finishDate": "2019-01-25",
+        "startDate": "2018-12-11",
+        "title": "The Rust Programming Language",
+        "url": "https://doc.rust-lang.org/book/"
+      }
+    ],
+    "2018": [
+      {
+        "author": "V.C. Vickers",
+        "finishDate": "2018-12-08",
+        "isbn": "9780192797353",
+        "startDate": "2018-12-08",
+        "title": "The Google Book",
+        "url": "https://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01003743954"
+      },
+      {
+        "author": "Tim Minchin",
+        "finishDate": "2018-12-01",
+        "isbn": "9781409156253",
+        "startDate": "2018-12-01",
+        "title": "Storm",
+        "url": "https://www.timminchin.com/stormthebook/"
+      },
+      {
+        "author": "Sarah Winman",
+        "finishDate": "2018-11-29",
+        "isbn": "9780755379316",
+        "startDate": "2018-11-01",
+        "title": "When God Was a Rabbit",
+        "url": "https://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01015772348"
+      },
+      {
+        "author": "Allen Ginsberg",
+        "finishDate": "2018-11-18",
+        "isbn": "9780872863101",
+        "startDate": "2018-11-18",
+        "title": "Howl and Other Poems",
+        "url": "http://www.citylights.com/book/?GCOI=87286100465920"
+      },
+      {
+        "author": "Rebecca Solnit",
+        "finishDate": "2018-11-10",
+        "isbn": "9780520262492",
+        "startDate": "2018-09-06",
+        "title": "Infinite City: A San Francisco Atlas",
+        "url": "http://rebeccasolnit.net/book/infinite-city-a-san-francisco-atlas/"
+      },
+      {
+        "author": "Caitlin Moran",
+        "finishDate": "2018-10-31",
+        "isbn": "9781446406168",
+        "startDate": "2018-08-21",
+        "title": "How To Be a Woman",
+        "url": "https://www.caitlinmoran.co.uk/how-to-be-a-women/"
+      },
+      {
+        "author": "Sebastián Peyrott",
+        "finishDate": "2018-08-27",
+        "startDate": "2018-08-14",
+        "title": "JWT Handbook",
+        "url": "https://auth0.com/resources/ebooks/jwt-handbook"
+      },
+      {
+        "author": "Sheldon B. Kopp",
+        "finishDate": "2018-08-13",
+        "isbn": "9780804150965",
+        "startDate": "2018-07-24",
+        "title": "If You Meet the Buddha on the Road, Kill Him: The Pilgrimage of Psychotherapy Patients",
+        "url": "https://explore.bl.uk/BLVU1:LSCOP-ALL:BLL01009468203"
+      },
+      {
+        "author": "Rosalie Ham",
+        "finishDate": "2018-07-23",
+        "isbn": "9781782830719",
+        "startDate": "2018-05-22",
+        "title": "The Dressmaker",
+        "url": "https://rosalieham.com/the-dressmaker/"
+      },
+      {
+        "author": "Andrew Hunt; David Thomas",
+        "finishDate": "2018-06-18",
+        "isbn": "9780201616224",
+        "startDate": "2018-04-07",
+        "title": "The Pragmatic Programmer: From Journeyman to Master",
+        "url": "https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/"
+      },
+      {
+        "author": "Julia Rochester",
+        "finishDate": "2018-04-07",
+        "isbn": "9780241971703",
+        "title": "The House at the Edge of the World",
+        "url": "https://www.juliarochester.com/books/the-house-at-the-edge-of-the-world/"
+      }
+    ],
+    "2017": [
+      {
+        "author": "Alan Hollinghurst",
+        "finishDate": "2017-12-27",
+        "isbn": "9781409002260",
+        "title": "The Swimming Pool Library",
+        "url": "https://www.penguin.co.uk/books/1032708/the-swimming-pool-library/9781784870317.html"
+      },
+      {
+        "author": "Kevin Starr",
+        "finishDate": "2017-09-07",
+        "isbn": "9780307430755",
+        "title": "California: A History",
+        "url": "https://www.penguinrandomhouse.com/books/171974/california-by-kevin-starr/"
+      }
+    ],
+    "2016": [
+      {
+        "author": "Sean Patrick",
+        "finishDate": "2016-10-30",
+        "isbn": "9781938895173",
+        "title": "Nikola Tesla: Imagination and the Man That Invented the 20th Century",
+        "url": "https://www.smashwords.com/books/view/304895"
+      },
+      {
+        "author": "Eric Schmidt; Jonathan Rosenberg",
+        "finishDate": "2016-04-07",
+        "isbn": "9781444792485",
+        "title": "How Google Works",
+        "url": "https://www.grandcentralpublishing.com/titles/eric-schmidt/how-google-works/9781455582334/"
+      }
+    ]
+  }
+}
