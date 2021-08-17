@@ -1,0 +1,60 @@
+@import "main";
+
+b {
+  font-weight: bold;
+}
+
+.contacts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0;
+
+  li {
+    list-style: none;
+    margin: 0.2rem 1rem;
+    text-align: center;
+  }
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+h2 {
+  border-bottom: 0.1rem solid var(--foreground-color);
+  font-size: 0.9rem;
+  padding-bottom: 0.2rem;
+  text-transform: uppercase;
+}
+
+.title-with-date {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 1.5rem 0 0.2rem;
+
+  b {
+    flex-basis: 50%;
+    flex-grow: 1;
+    font-size: 1.2rem;
+    margin: 0 1rem 0.2rem 0;
+  }
+
+  h2 + & {
+    margin-top: 1rem;
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  b, .contacts a {
+    color: white;
+  }
+
+  h2 {
+    border-color: white;
+  }
+}

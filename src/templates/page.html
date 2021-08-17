@@ -1,0 +1,20 @@
+{% extends "main.html" %}
+
+{% block title %}
+  {{ page.title }} – {{ config.title }}
+{% endblock %}
+
+{% block header %}
+  <h1>{{ page.title }}</h1>
+{% endblock %}
+
+{% block main %}
+  {{ page.content | safe }}
+{% endblock %}
+
+{% block footer %}
+  <nav>
+    <a href="/">Index</a>
+  </nav>
+  {{ super() }}
+{% endblock %}

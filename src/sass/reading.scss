@@ -1,0 +1,42 @@
+@import "main";
+
+h2 {
+  border-bottom: 0.1rem solid var(--foreground-color);
+  padding-bottom: 0.3rem;
+}
+
+.title-with-date {
+  align-items: baseline;
+  display: flex;
+	flex-wrap: wrap-reverse;
+  justify-content: space-between;
+  margin: 1.5rem 0 0;
+
+	cite {
+    flex-basis: 50%;
+    flex-grow: 1;
+    font-style: italic;
+		font-weight: bold;
+		margin-right: 1rem;
+	}
+
+  h2 + & {
+    margin-top: 1rem;
+  }
+}
+
+@media screen and (max-width: 32rem) {
+  .title-with-date cite {
+    flex-basis: 100%;
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  cite {
+    color: white;
+  }
+
+  h2 {
+    border-color: white;
+  }
+}
