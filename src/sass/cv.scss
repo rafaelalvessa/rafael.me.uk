@@ -35,13 +35,13 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 1.5rem 0 0.2rem;
+  margin-top: 1.5rem;
 
   b {
     flex-basis: 50%;
     flex-grow: 1;
     font-size: 1.2rem;
-    margin: 0 1rem 0.2rem 0;
+    margin: 0 1rem 0.4rem 0;
   }
 
   h2 + & {
