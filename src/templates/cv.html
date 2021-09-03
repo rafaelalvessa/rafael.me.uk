@@ -18,7 +18,7 @@
       <a href="/">{{ config.base_url }}</a>
     </li>
     <li>
-      <a href="{{ config.extra.github }}" rel="noopener noreferrer" target="_blank">{{ config.extra.github }}</a>
+      <a href="{{ config.extra.github }}" rel="noreferrer">{{ config.extra.github }}</a>
     </li>
   </ul>
 {% endblock %}
@@ -35,7 +35,7 @@
   {% for position in cv.work_experience %}
     <div class="title-with-date">
       <b>
-        <a href="{{ position.website }}" rel="nofollow noopener noreferrer" target="_blank">{{ position.organisation }}</a>
+        <a href="{{ position.website }}" rel="nofollow noreferrer">{{ position.organisation }}</a>
       </b>
       <div>{{ position.from_date }}–{{ position.to_date }}</div>
     </div>
@@ -64,7 +64,7 @@
   <ul>
     {% for repository in cv.open_source %}
       <li>
-        <a href="{{ repository }}" rel="nofollow noopener noreferrer" target="_blank">{{ repository }}</a>
+        <a href="{{ repository }}" rel="nofollow noreferrer">{{ repository }}</a>
       </li>
     {% endfor %}
   </ul>
