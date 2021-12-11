@@ -8,10 +8,13 @@ date_finished = "present"
 date_started = "5 Oct 2020"
 title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0"
 
+[[entries]]
+category = "2021"
+
 [[entries.books]]
 author = "J.K. Rowling"
 isbn = "9781781106464"
-date_finished = "present"
+date_finished = "11 Dec"
 date_started = "29 Jun 2020"
 title = "Harry Potter: The Complete Collection"
 
