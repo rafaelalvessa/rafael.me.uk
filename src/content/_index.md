@@ -11,7 +11,7 @@ order). I'm a [Ravenclaw](https://www.wizardingworld.com/collections/ravenclaw).
 Professionally, I make software mainly for the Web. At the moment, I'm enjoying
 Rust and TypeScript. I'm also an advocate for free & open-source software, and
 strive to contribute when time permits. Some of my code is available on
-{{ github_link() }}.
+[GitHub]({{ config(variable="github") }}).
 
 ## Reading log
 
@@ -23,4 +23,9 @@ Find my curriculum vitae at [CV](/cv).
 
 ## Contact
 
-{{ contact() }}
+You can reach me by [email](mailto:{{ config(variable="email") }}).
+
+If you would like to message me privately, please use my
+[PGP key][openpgp] with fingerpring `{{ config(variable="pgp") }}`.
+
+[openpgp]: https://keys.openpgp.org/vks/v1/by-fingerprint/{{ config(variable="pgp") }}
