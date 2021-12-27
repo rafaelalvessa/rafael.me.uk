@@ -2,13 +2,6 @@
 category = "Currently reading"
 
 [[entries.books]]
-author = "J.K. Rowling"
-isbn = "9781444964912"
-date_finished = "present"
-date_started = "13 Dec 2021"
-title = "The Christmas Pig"
-
-[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
@@ -17,6 +10,13 @@ title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0
 
 [[entries]]
 category = "2021"
+
+[[entries.books]]
+author = "J.K. Rowling"
+isbn = "9781444964912"
+date_finished = "27 Dec"
+date_started = "13 Dec"
+title = "The Christmas Pig"
 
 [[entries.books]]
 author = "J.K. Rowling"
