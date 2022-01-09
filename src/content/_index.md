@@ -26,6 +26,6 @@ Find my curriculum vitae at [CV](/cv).
 You can reach me by [email](mailto:{{ config(variable="email") }}).
 
 If you would like to message me privately, please use my
-[PGP key][openpgp] with fingerpring `{{ config(variable="pgp") }}`.
+[PGP key][openpgp] with fingerprint `{{ config(variable="pgp") }}`.
 
 [openpgp]: https://keys.openpgp.org/vks/v1/by-fingerprint/{{ config(variable="pgp") }}
