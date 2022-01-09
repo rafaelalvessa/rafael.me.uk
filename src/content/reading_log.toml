@@ -2,18 +2,21 @@
 category = "Currently reading"
 
 [[entries.books]]
-author = "J.K. Rowling; John Tiffany; Jack Thorne"
-isbn = "9780751565355"
-date_finished = "present"
-date_started = "28 Dec"
-title = "Harry Potter and the Cursed Child: Parts One and Two"
-
-[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
 date_started = "5 Oct 2020"
 title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0"
+
+[[entries]]
+category = "2022"
+
+[[entries.books]]
+author = "J.K. Rowling; John Tiffany; Jack Thorne"
+isbn = "9780751565355"
+date_finished = "9 Jan"
+date_started = "28 Dec 2021"
+title = "Harry Potter and the Cursed Child: Parts One and Two"
 
 [[entries]]
 category = "2021"
