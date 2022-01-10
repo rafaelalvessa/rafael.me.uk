@@ -14,4 +14,4 @@ smart_punctuation = true
 author = "Rafael Alves Sa"
 email = "rafael@rafael.me.uk"
 github = "https://github.com/rafaelalvessa"
-pgp = "AE8232A02B2F4F7B5316538662B3ABFD3DD4A9C4"
+pgp_fingerprint = "AE8232A02B2F4F7B5316538662B3ABFD3DD4A9C4"
