@@ -2,6 +2,13 @@
 category = "Currently reading"
 
 [[entries.books]]
+author = "J.K. Rowling"
+isbn = "9781408883082"
+date_finished = "present"
+date_started = "17 Jan 2022"
+title = "Quidditch Through the Ages"
+
+[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
