@@ -2,13 +2,6 @@
 category = "Currently reading"
 
 [[entries.books]]
-author = "J.K. Rowling"
-isbn = "9781408896945"
-date_finished = "present"
-date_started = "11 Jan 2022"
-title = "Fantastic Beasts and Where to Find Them"
-
-[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
@@ -17,6 +10,13 @@ title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0
 
 [[entries]]
 category = "2022"
+
+[[entries.books]]
+author = "J.K. Rowling"
+isbn = "9781408896945"
+date_finished = "17 Jan"
+date_started = "11 Jan"
+title = "Fantastic Beasts and Where to Find Them"
 
 [[entries.books]]
 author = "J.K. Rowling; John Tiffany; Jack Thorne"
