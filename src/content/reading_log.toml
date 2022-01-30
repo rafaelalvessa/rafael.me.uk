@@ -2,13 +2,6 @@
 category = "Currently reading"
 
 [[entries.books]]
-author = "J.K. Rowling"
-isbn = "9781408883082"
-date_finished = "present"
-date_started = "17 Jan 2022"
-title = "Quidditch Through the Ages"
-
-[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
@@ -17,6 +10,13 @@ title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0
 
 [[entries]]
 category = "2022"
+
+[[entries.books]]
+author = "J.K. Rowling"
+isbn = "9781408883082"
+date_finished = "30 Jan"
+date_started = "17 Jan"
+title = "Quidditch Through the Ages"
 
 [[entries.books]]
 author = "J.K. Rowling"
