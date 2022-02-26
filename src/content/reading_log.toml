@@ -13,6 +13,13 @@ category = "2022"
 
 [[entries.books]]
 author = "J.K. Rowling"
+isbn = "9781781106273"
+date_finished = "26 Feb"
+date_started = "26 Feb"
+title = "Hogwarts: An Incomplete and Unreliable Guide"
+
+[[entries.books]]
+author = "J.K. Rowling"
 isbn = "9780747599876"
 date_finished = "21 Feb"
 date_started = "5 Feb"
