@@ -2,6 +2,13 @@
 category = "Currently reading"
 
 [[entries.books]]
+author = "J.K. Rowling"
+isbn = "9781781106280"
+date_finished = "present"
+date_started = "28 Mar"
+title = "Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies"
+
+[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
