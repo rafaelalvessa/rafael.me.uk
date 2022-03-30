@@ -2,13 +2,6 @@
 category = "Currently reading"
 
 [[entries.books]]
-author = "J.K. Rowling"
-isbn = "9781781106297"
-date_finished = "present"
-date_started = "30 Mar 2022"
-title = "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists"
-
-[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
@@ -17,6 +10,13 @@ title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0
 
 [[entries]]
 category = "2022"
+
+[[entries.books]]
+author = "J.K. Rowling"
+isbn = "9781781106297"
+date_finished = "31 Mar"
+date_started = "30 Mar"
+title = "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists"
 
 [[entries.books]]
 author = "J.K. Rowling"
