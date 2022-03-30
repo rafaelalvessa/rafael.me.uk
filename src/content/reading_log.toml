@@ -2,6 +2,13 @@
 category = "Currently reading"
 
 [[entries.books]]
+author = "J.K. Rowling"
+isbn = "9781781106297"
+date_finished = "present"
+date_started = "30 Mar 2022"
+title = "Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists"
+
+[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
