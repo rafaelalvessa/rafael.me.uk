@@ -2,6 +2,13 @@
 category = "Currently reading"
 
 [[entries.books]]
+author = "Pottermore Publishing"
+isbn = "9781781106143"
+date_finished = "present"
+date_started = "3 Apr 2022"
+title = "A Journey Through Potions and Herbology"
+
+[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
