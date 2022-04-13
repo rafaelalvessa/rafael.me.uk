@@ -2,13 +2,6 @@
 category = "Currently reading"
 
 [[entries.books]]
-author = "Pottermore Publishing"
-isbn = "9781781106150"
-date_finished = "present"
-date_started = "10 Apr 2022"
-title = "A Journey Through Divination and Astronomy"
-
-[[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
 date_finished = "present"
@@ -17,6 +10,13 @@ title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0
 
 [[entries]]
 category = "2022"
+
+[[entries.books]]
+author = "Pottermore Publishing"
+isbn = "9781781106150"
+date_finished = "13 Apr"
+date_started = "10 Apr"
+title = "A Journey Through Divination and Astronomy"
 
 [[entries.books]]
 author = "Pottermore Publishing"
