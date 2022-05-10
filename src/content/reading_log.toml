@@ -1,15 +1,12 @@
 [[entries]]
-category = "Currently reading"
+category = "2022"
 
 [[entries.books]]
 author = "Elliot B. Koffman; Paul A. T. Wolfgang"
 isbn = "9780471692645"
-date_finished = "present"
+date_finished = "10 May"
 date_started = "5 Oct 2020"
 title = "Objects, Abstraction, Data Structures and Design Using Java Version 5.0"
-
-[[entries]]
-category = "2022"
 
 [[entries.books]]
 author = "Pottermore Publishing"
