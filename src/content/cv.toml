@@ -86,6 +86,15 @@ values = [
 ]
 
 [[work_experience]]
+description = []
+from_date = "2022"
+location = "London, UK"
+organisation = "Kaluza"
+title = "Software Engineer"
+to_date = "present"
+website = "https://www.kaluza.com/"
+
+[[work_experience]]
 description = [
   "Created and maintained content management tools in Express and Nuxt.js using TypeScript.",
   "Built a back-end service in Express using TypeScript and a MongoDB database to provide environment configurations to tools and game clients.",
@@ -97,7 +106,7 @@ from_date = "2020"
 location = "London, UK"
 organisation = "Supersolid"
 title = "Server Developer"
-to_date = "present"
+to_date = "2022"
 website = "https://supersolid.com"
 
 [[work_experience]]
