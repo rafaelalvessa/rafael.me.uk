@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="/assets/css/default.css" rel="stylesheet">
+    <link href="/favicon.ico" rel="icon">
+    <link href="/assets/images/icon.png" rel="icon" sizes="512x512" type="image/png">
+    <meta charset="utf-8">
+    <meta content="{{ site.author }}" name="author">
+    <meta content="{{ site.description }}" name="description">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>
+      {{ page.title }}
+      {%- if page.url != '/' %}
+      – {{ site.title }}
+      {%- endif %}
+    </title>
+  </head>
+  <body>
+    <header>
+      <h1>
+        <a href="/">{{ site.title }}</a>
+      </h1>
+    </header>
+    <main>
+      {%- if page.url != '/' %}
+      <h2>{{ page.title }}</h2>
+      {% endif -%}
+      {{ content }}
+    </main>
+    <footer>
+      All content is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="nofollow noreferrer">CC BY-SA 4.0</a>.
+      Source code available on <a href="{{ site.github }}/www.rafael.me.uk" rel="noreferrer">GitHub</a>.
+    </footer>
+  </body>
+</html>

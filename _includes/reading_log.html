@@ -1,0 +1,22 @@
+<div id="reading-log">
+  {%- for section in include.reading_log %}
+  <h3>{{ section.first }}</h3>
+  <ol>
+    {%- for book in section.last %}
+    <li>
+      <div class="reading-dates">
+        {%- if book.date_started %}
+        {{ book.date_started }} –
+        {% endif -%}
+        {{ book.date_finished | default: "present" }}
+      </div>
+      <cite class="book-title">{{ book.title }}</cite>
+      <div class="book-author">by {{ book.author }}</div>
+      {%- if book.isbn %}
+      <div class="book-isbn">ISBN: {{ book.isbn }}</div>
+      {%- endif %}
+    </li>
+    {%- endfor %}
+  </ol>
+  {%- endfor %}
+</div>

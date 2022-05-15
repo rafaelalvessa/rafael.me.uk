@@ -1,0 +1,158 @@
+---
+---
+
+a {
+  color: inherit;
+  text-decoration: underline;
+
+  &:focus,
+  &:hover {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
+}
+
+body {
+  font-family: 'Source Serif', serif;
+}
+
+footer {
+  border-top: 0.1em solid var(--accent-color);
+  font-size: 0.8em;
+  margin: 5em 0 2em;
+  padding: 0.8em 0.2em 0;
+}
+
+h1 {
+  color: var(--accent-color);
+  font-size: 1.3em;
+  font-weight: bold;
+  margin: 1.5em 0;
+  text-align: center;
+  text-transform: uppercase;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 2.2em 0 0.5em;
+}
+
+h3 {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin: 2.1em 0 0.5em;
+}
+
+html {
+  font-size: 1.2em;
+  line-height: 1.45;
+}
+
+main h2:first-child {
+  margin-top: 0;
+}
+
+p {
+  margin: 0.5em 0 1em;
+}
+
+#reading-log {
+  h3 {
+    border-bottom: 0.1em solid var(--accent-color);
+  }
+
+  ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      column-gap: 1.5em;
+      display: flex;
+      flex-wrap: wrap-reverse;
+      margin: 1.5em 0;
+
+      cite {
+        flex: 1;
+        font-style: italic;
+        font-weight: bold;
+      }
+
+      .book-author,
+      .book-isbn {
+        flex: 100%;
+      }
+
+      .book-author {
+        order: -1;
+      }
+
+      .book-isbn {
+        order: -2;
+      }
+
+      .book-title {
+        flex: 70%;
+      }
+
+      .reading-dates {
+        order: 1;
+        text-align: right;
+      }
+    }
+  }
+}
+
+@media screen {
+  body {
+    margin: 0 auto;
+    max-width: 38em;
+    padding: 0 0.8em;
+  }
+
+  html {
+    --accent-color: #000;
+    --background-color: #fff;
+    --link-color: #3f7fbf;
+    --text-color: #111;
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    --accent-color: #fff;
+    --background-color: #111;
+    --text-color: #ccc;
+  }
+}
+
+@font-face {
+  font-family: 'Source Serif';
+  font-style: italic;
+  font-weight: bold;
+  src: url('/assets/typefaces/source_serif_bold_italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif';
+  font-weight: bold;
+  src: url('/assets/typefaces/source_serif_bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif';
+  font-style: italic;
+  src: url('/assets/typefaces/source_serif_italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Source Serif';
+  src: url('/assets/typefaces/source_serif_regular.woff2') format('woff2');
+}

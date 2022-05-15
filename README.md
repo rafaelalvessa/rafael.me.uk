@@ -2,5 +2,5 @@
 
 Source code of my personal website.
 
-Made with [Zola](https://www.getzola.org/). Hosted by
-[GitHub Pages](https://pages.github.com) and served from [docs/](/docs).
+Made with [Jekyll](https://jekyllrb.com/) and hosted by
+[GitHub Pages](https://pages.github.com/).

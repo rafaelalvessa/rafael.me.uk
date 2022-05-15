@@ -1,0 +1,262 @@
+2022:
+
+- author: Elliot B. Koffman, Paul A. T. Wolfgang
+  date_finished: 10 May
+  date_started: 5 Oct 2020
+  isbn: 9780471692645
+  title: Objects, Abstraction, Data Structures and Design Using Java Version 5.0
+
+- author: Pottermore Publishing
+  date_finished: 13 Apr
+  date_started: 13 Apr
+  isbn: 9781781106167
+  title: A Journey Through Care of Magical Creatures
+
+- author: Pottermore Publishing
+  date_finished: 13 Apr
+  date_started: 10 Apr
+  isbn: 9781781106150
+  title: A Journey Through Divination and Astronomy
+
+- author: Pottermore Publishing
+  date_finished: 10 Apr
+  date_started: 3 Apr
+  isbn: 9781781106143
+  title: A Journey Through Potions and Herbology
+
+- author: Pottermore Publishing
+  date_finished: 2 Apr
+  date_started: 2 Apr
+  isbn: 9781781106136
+  title: A Journey Through Charms and Defence Against the Dark Arts
+
+- author: J.K. Rowling
+  date_finished: 31 Mar
+  date_started: 30 Mar
+  isbn: 9781781106297
+  title: Short Stories from Hogwarts of Power, Politics and Pesky Poltergeists
+
+- author: J.K. Rowling
+  date_finished: 30 Mar
+  date_started: 28 Mar
+  isbn: 9781781106280
+  title: Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies
+
+- author: J.K. Rowling
+  date_finished: 26 Feb
+  date_started: 26 Feb
+  isbn: 9781781106273
+  title: 'Hogwarts: An Incomplete and Unreliable Guide'
+
+- author: J.K. Rowling
+  date_finished: 21 Feb
+  date_started: 5 Feb
+  isbn: 9780747599876
+  title: The Tales of Beedle the Bard
+
+- author: J.K. Rowling
+  date_finished: 30 Jan
+  date_started: 17 Jan
+  isbn: 9781408883082
+  title: Quidditch Through the Ages
+
+- author: J.K. Rowling
+  date_finished: 17 Jan
+  date_started: 11 Jan
+  isbn: 9781408896945
+  title: Fantastic Beasts and Where to Find Them
+
+- author: J.K. Rowling, John Tiffany, Jack Thorne
+  date_finished: 9 Jan
+  date_started: 28 Dec 2021
+  isbn: 9780751565355
+  title: 'Harry Potter and the Cursed Child: Parts One and Two'
+
+2021:
+
+- author: J.K. Rowling
+  date_finished: 27 Dec
+  date_started: 13 Dec
+  isbn: 9781444964912
+  title: The Christmas Pig
+
+- author: J.K. Rowling
+  date_finished: 11 Dec
+  date_started: 29 Jun 2020
+  isbn: 9781781106464
+  title: 'Harry Potter: The Complete Collection'
+
+2020:
+
+- author: J.K. Rowling
+  date_finished: 10 Jul
+  date_started: 26 May
+  title: The Ickabog
+
+- author: Marieke Eyskoot
+  date_finished: 4 May
+  date_started: 15 Nov 2019
+  isbn: 9789063694920
+  title: This is a Good Guide - for a sustainable lifestyle
+
+2019:
+
+- author: Gene Kim, Kevin Behr, George Spafford
+  date_finished: 27 Dec
+  date_started: 25 Nov
+  isbn: 9781942788300
+  title: 'The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win'
+
+- author: Margaret Atwood
+  date_finished: 12 Nov
+  date_started: 16 Oct
+  isbn: 9781784873189
+  title: The Handmaids Tale
+
+- author: Andy Lester
+  date_finished: 15 Oct
+  date_started: 25 Set
+  isbn: 9781934356265
+  title: Land the Tech Job You Love
+
+- author: Daniel Stenberg
+  date_finished: 24 Sep
+  date_started: 27 Aug
+  isbn: 9789163965012
+  title: Everything curl
+
+- author: Home Office
+  date_finished: 26 Aug
+  date_started: 31 Jul
+  isbn: 9780113413409
+  title: 'Life in the United Kingdom: A Guide for New Residents'
+
+- author: Jason Fried, David Heinemeier Hansson
+  date_finished: 8 Aug
+  date_started: 29 Jul
+  isbn: 9780008323455
+  title: It Doesnt Have to Be Crazy at Work
+
+- author: Greg Jackson
+  date_finished: 26 Jul
+  date_started: 11 Jul
+  isbn: 9781783782017
+  title: 'Prodigals: Stories'
+
+- author: Shoshana Zuboff
+  date_finished: 11 Jul
+  date_started: 23 Apr
+  isbn: 9781782832744
+  title: 'The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power'
+
+- author: Edward Bellamy
+  date_finished: 22 Apr
+  date_started: 17 Mar
+  title: 'Looking Backward: 2000-1887'
+
+- author: Jim Blandy
+  date_finished: 31 Mar
+  date_started: 22 Mar
+  isbn: 9781491927298
+  title: Why Rust?
+
+- author: Joanna Cannon
+  date_finished: 07 Mar
+  date_started: 30 Nov 2018
+  isbn: 9780008132187
+  title: The Trouble with Goats and Sheep
+
+- author: Steve Klabnik, Carol Nichols
+  date_finished: 25 Jan
+  date_started: 11 Dec 2018
+  title: The Rust Programming Language
+
+2018:
+
+- author: V.C. Vickers
+  date_finished: 8 Dec
+  date_started: 8 Dec
+  isbn: 9780192797353
+  title: The Google Book
+
+- author: Tim Minchin
+  date_finished: 1 Dec
+  date_started: 1 Dec
+  isbn: 9781409156253
+  title: Storm
+
+- author: Sarah Winman
+  date_finished: 29 Nov
+  date_started: 1 Nov
+  isbn: 9780755379316
+  title: When God Was a Rabbit
+
+- author: Allen Ginsberg
+  date_finished: 18 Nov
+  date_started: 18 Nov
+  isbn: 9780872863101
+  title: Howl and Other Poems
+
+- author: Rebecca Solnit
+  date_finished: 10 Nov
+  date_started: 6 Sep
+  isbn: 9780520262492
+  title: 'Infinite City: A San Francisco Atlas'
+
+- author: Caitlin Moran
+  date_finished: 31 Oct
+  date_started: 21 Aug
+  isbn: 9781446406168
+  title: How To Be a Woman
+
+- author: Sebastián Peyrott
+  date_finished: 27 Aug
+  date_started: 14 Aug
+  title: JWT Handbook
+
+- author: Sheldon B. Kopp
+  date_finished: 13 Aug
+  date_started: 24 Jul
+  isbn: 9780804150965
+  title: 'If You Meet the Buddha on the Road, Kill Him: The Pilgrimage of Psychotherapy Patients'
+
+- author: Rosalie Ham
+  date_finished: 23 Jul
+  date_started: 22 May
+  isbn: 9781782830719
+  title: The Dressmaker
+
+- author: Andrew Hunt, David Thomas
+  date_finished: 18 Jun
+  date_started: 7 Apr
+  isbn: 9780201616224
+  title: 'The Pragmatic Programmer: From Journeyman to Master'
+
+- author: Julia Rochester
+  date_finished: 7 Apr
+  isbn: 9780241971703
+  title: The House at the Edge of the World
+
+2017:
+
+- author: Alan Hollinghurst
+  date_finished: 27 Dec
+  isbn: 9781409002260
+  title: The Swimming Pool Library
+
+- author: Kevin Starr
+  date_finished: 7 Sep
+  isbn: 9780307430755
+  title: 'California: A History'
+
+2016:
+
+- author: Sean Patrick
+  date_finished: 30 Oct
+  isbn: 9781938895173
+  title: 'Nikola Tesla: Imagination and the Man That Invented the 20th Century'
+
+- author: Eric Schmidt, Jonathan Rosenberg
+  date_finished: 7 Apr
+  isbn: 9781444792485
+  title: How Google Works

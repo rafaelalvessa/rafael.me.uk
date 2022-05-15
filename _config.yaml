@@ -1,0 +1,13 @@
+author: Rafael Alves Sa
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+description: The personal website of Rafael Alves Sa.
+email: rafael@rafael.me.uk
+github: 'https://github.com/rafaelalvessa'
+sass:
+    sourcemap: never
+    style: expanded
+title: Rafael Alves Sa
