@@ -1,16 +1,17 @@
 Currently reading:
 
-- author: John Coiley
-  date_started: 30 Nov 2022
-  isbn: 9780863189111
-  title: Train
-
 - author: Virginia Woolf
   date_started: 11 Oct 2022
   isbn: 9780140030334
   title: Night and Day
 
 2022:
+
+- author: John Coiley
+  date_finished: 18 Dec
+  date_started: 30 Nov
+  isbn: 9780863189111
+  title: Train
 
 - author: Virginia Woolf
   date_finished: 9 Oct
