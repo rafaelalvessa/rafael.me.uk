@@ -12,8 +12,3 @@ Professionally, I make services for the Web. At the moment, I'm enjoying
 programming in Rust and TypeScript. I'm also an advocate of free & open-source
 software, and strive to contribute whenever I have some free time. Some of my
 code is available on [GitHub]({{ site.github }}).
-
-## Contact
-
-Please reach out via [email](mailto:{{ site.email }}). You can use my
-[PGP key](/assets/pgp/rafael_alves_sa.asc) to contact me privately.
