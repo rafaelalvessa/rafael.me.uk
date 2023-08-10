@@ -13,10 +13,6 @@ programming in Rust and TypeScript. I'm also an advocate of free & open-source
 software, and strive to contribute whenever I have some free time. Some of my
 code is available on [GitHub]({{ site.github }}).
 
-## Reading log
-
-Take a look at the books I've been reading at [Reading log](/reading-log).
-
 ## Contact
 
 Please reach out via [email](mailto:{{ site.email }}). You can use my

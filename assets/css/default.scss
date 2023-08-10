@@ -62,53 +62,6 @@ p {
   margin: 0.5em 0 1em;
 }
 
-#reading-log {
-  h3 {
-    border-bottom: 0.1em solid var(--accent-color);
-  }
-
-  ol {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-
-    li {
-      column-gap: 1.5em;
-      display: flex;
-      flex-wrap: wrap-reverse;
-      margin: 1.5em 0;
-
-      cite {
-        flex: 1;
-        font-style: italic;
-        font-weight: bold;
-      }
-
-      .book-author,
-      .book-isbn {
-        flex: 100%;
-      }
-
-      .book-author {
-        order: -1;
-      }
-
-      .book-isbn {
-        order: -2;
-      }
-
-      .book-title {
-        flex: 70%;
-      }
-
-      .reading-dates {
-        order: 1;
-        text-align: right;
-      }
-    }
-  }
-}
-
 @media screen {
   body {
     margin: 0 auto;
