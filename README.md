@@ -1,4 +1,4 @@
-# [www.rafael.me.uk](https://www.rafael.me.uk)
+# [rafael.me.uk](https://rafael.me.uk)
 
 Source code of my personal website.
 
